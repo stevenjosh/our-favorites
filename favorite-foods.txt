@@ -1,3 +1,3 @@
-Chicken
-Steak
-Veal
+Chicken [meat]
+Steak [meat]
+Veal [meat
